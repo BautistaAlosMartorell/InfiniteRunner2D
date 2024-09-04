@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: f303b99f20b6eef438388339761d0923
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 5179
+        width: 981
+        height: 738
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.2065648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10d6c58450af554cacf886d38561369
+      internalID: -1944829880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 5134
+        width: 1427
+        height: 1985
+      alignment: 9
+      pivot: {x: 0.44580165, y: 0.67143786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439986541322c04eb1126ed87e840ab
+      internalID: -1199178544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 5287
+        width: 1098
+        height: 1850
+      alignment: 9
+      pivot: {x: 0.5140881, y: 0.0066881333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9050f3d3449671a40ba77d7df6227015
+      internalID: 1082976902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5842
+        width: 1026
+        height: 1229
+      alignment: 9
+      pivot: {x: 0.5000019, y: -0.016027464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2bd7f887ef2d8458b4f97e40d1defa
+      internalID: -1626993216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3181
+        width: 873
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5177185, y: 0.063043915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fddfde627ad774998898e2ce6c2f16
+      internalID: 819859693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 3334
+        width: 815
+        height: 1355
+      alignment: 9
+      pivot: {x: 0.4430625, y: 0.15752926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9629b36e7a85cb44ae2e63d82b39f45
+      internalID: -1517624739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 4482
+        y: 3307
+        width: 409
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.008944848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef217cd879309c4bb155ac4282581ac
+      internalID: -34784603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 5368
+        y: 3484
+        width: 617
+        height: 1008
+      alignment: 9
+      pivot: {x: 0.5250709, y: -0.02174668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bed3c0ebbe93e4a91e39df7febb0ff
+      internalID: -751912641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Proyecto 11 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 3487
+        width: 963
+        height: 1301
+      alignment: 9
+      pivot: {x: 0.5321262, y: -0.035028268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73058bd9e430463429abaef203b594c7
+      internalID: 2025527431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Proyecto 11 (2)_0: -1944829880
+      Proyecto 11 (2)_1: -1199178544
+      Proyecto 11 (2)_2: 1082976902
+      Proyecto 11 (2)_3: -1626993216
+      Proyecto 11 (2)_4: 819859693
+      Proyecto 11 (2)_5: -1517624739
+      Proyecto 11 (2)_6: -34784603
+      Proyecto 11 (2)_7: -751912641
+      Proyecto 11 (2)_8: 2025527431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
